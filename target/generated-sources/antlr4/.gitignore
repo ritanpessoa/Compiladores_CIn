@@ -1,0 +1,6 @@
+/gramatica.tokens
+/gramaticaBaseListener.java
+/gramaticaLexer.java
+/gramaticaLexer.tokens
+/gramaticaListener.java
+/gramaticaParser.java
